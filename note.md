@@ -35,4 +35,16 @@ path: 在哪些地方执行命令
   - 缩写
     - Num, Str, len, var, int, arr
 - 数据结构+算法: [LEETCODE](https://leetcode-cn.com/problemset/all/)
-- [git](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
+- [git](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)]
+- 面向对象
+
+## 方向
+
+- web
+  - 前端：写网页，css+html+js
+  - 后端：写服务器上的代码: python/java/c/c++ + sql(mysql, mongoDB)
+- ai: 数学， python
+- game: c# / c++
+- lab: linux, 汇编， 计网， 操作系统
+- android： java
+- ios： objective C / swift + mac
